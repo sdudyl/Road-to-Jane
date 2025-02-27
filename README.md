@@ -4,10 +4,6 @@
 
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)[![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1486/badge)](https://bestpractices.coreinfrastructure.org/projects/1486)[![Travis](https://app.travis-ci.com/ethereum/go-ethereum.svg?branch=master)](https://app.travis-ci.com/github/ethereum/go-ethereum)[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
 
-| **`Documentation`**                                          |
-| ------------------------------------------------------------ |
-| [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) |
-
 ## Welcome to PySec
 
 [PySec](https://www.google.com) is an easy-to-use open-source framework designed for privacy-preserving data intelligence and machine learning. PySec enables secure computations while preserving data confidentiality through the use of homomorphic encryption (HE), GPU parallelism, FPGA acceleration, and customizable modular templates. It supports a variety of privacy-preserving tasks, such as encrypted inference, logistic regression (LR), private information retrieval (PIR), and more.
@@ -173,7 +169,9 @@ Explore the diverse privacy-preserving computation tasks enabled by PySec.  Desi
 |                                                              |                                                              | <a target="_blank" href="https://lightning.ai/lightning-ai/studios/finetune-an-llm-with-pytorch-lightning"><img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> |
 |                                                              |                                                              | <a target="_blank" href="https://lightning.ai/lightning-ai/studios/recommendation-system-with-pytorch-lightning"><img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> |
 |                                                              |                                                              | <a target="_blank" href="https://lightning.ai/lightning-ai/studios/time-series-forecasting-with-pytorch-lightning"><img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> |
+## The Team
 
+PySec is currently maintained by [A](), [B](), and [C]() with major contributions coming from hundreds of talented individuals in various forms and means. A non-exhaustive but growing list needs to mention: [D](), [E](), [F](), [G](), [H]().
 ## License
 
 PySec is completely free and open-source and licensed under the [Apache License 2.0](LICENSE).
