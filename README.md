@@ -18,9 +18,6 @@ pip install pysec
 
 Ensure that you have Python 3.9 or above.
 
-## Build
-
-// to do
 
 ## Core Concepts
 
